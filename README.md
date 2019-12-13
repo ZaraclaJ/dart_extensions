@@ -10,4 +10,4 @@ Dart Extensions Snippets let you create method, property and operator extensions
 | `extensionOperator`            | Create an operator extension       |
 
 
-![Snippets Demo](https://j.gifs.com/nx6plY.gif)
+![Snippets Demo](https://j.gifs.com/yoAqZP.gif)
