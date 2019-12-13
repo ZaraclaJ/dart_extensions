@@ -3,8 +3,8 @@
         "prefix": "extensionMethod",
         "body": [
             "extension ${1:ExtensionName} on ${2:Type} {",
-            "  ${3:ReturnType} ${4:methodName}() {",
-            "    return $0",
+            "  ${3:ReturnType} ${4:methodName}($5) {",
+            "    $0",
             "  }",
             "}"
         ],
@@ -15,7 +15,7 @@
         "body": [
             "extension ${1:ExtensionName} on ${2:Type} {",
             "  ${3:ReturnType} get ${4:propertyName} {",
-            "    return $0",
+            "    $0",
             "  }",
             "}"
         ],
@@ -26,7 +26,7 @@
         "body": [
             "extension ${1:ExtensionName} on ${2:Type} {",
             "  ${3:ReturnType} operator ${4:ReturnType}($2 other) {",
-            "    return $0",
+            "    $0",
             "  }",
             "}"
         ],
