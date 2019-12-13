@@ -3,6 +3,12 @@
     "displayName": "Dart Extensions",
     "description": "Snippets to create extensions in Dart",
     "version": "1.0.0",
+    "publisher": "Zaraclaj",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ZaraclaJ/dart_extensions"
+    },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.41.0"
     },
