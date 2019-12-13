@@ -1,5 +1,5 @@
 {
-    "Extension method": {
+    "Method Extension": {
         "prefix": "extensionMethod",
         "body": [
             "extension ${1:ExtensionName} on ${2:Type} {",
@@ -8,9 +8,9 @@
             "  }",
             "}"
         ],
-        "description": "Create an extension method"
+        "description": "Create a method extension"
     },
-    "Extension property": {
+    "Property Extension": {
         "prefix": "extensionProp",
         "body": [
             "extension ${1:ExtensionName} on ${2:Type} {",
@@ -19,9 +19,9 @@
             "  }",
             "}"
         ],
-        "description": "Create an extension property"
+        "description": "Create a property extension"
     },
-    "Extension operator": {
+    "Operator Extension": {
         "prefix": "extensionOperator",
         "body": [
             "extension ${1:ExtensionName} on ${2:Type} {",
@@ -30,6 +30,6 @@
             "  }",
             "}"
         ],
-        "description": "Create an extension operator"
+        "description": "Create an operator extension"
     }
 }

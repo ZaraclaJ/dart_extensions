@@ -1,6 +1,6 @@
 {
-    "name": "dartextensions",
-    "displayName": "Dart Extensions",
+    "name": "dart_extensions_snippets",
+    "displayName": "Dart Extensions Snippets",
     "description": "Snippets to create extensions in Dart",
     "version": "1.0.0",
     "publisher": "Zaraclaj",
